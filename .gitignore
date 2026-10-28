@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.onnx
+*.h5
+*.zip
+data/
+.env
